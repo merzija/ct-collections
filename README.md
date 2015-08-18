@@ -1,4 +1,4 @@
 # ct-collections
 
-Marina
-Nino
+- Marina
+- Nino
