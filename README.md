@@ -4,3 +4,4 @@
 - Nino
 - Merzija
 - Boris
+- Laza
