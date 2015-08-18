@@ -9,3 +9,5 @@
 - Nikola
 - Nermina
 - Anel
+- Vedim
+- Sadmir
