@@ -5,3 +5,6 @@
 - Merzija
 - Boris
 - Laza
+- Ramiz
+- Nikola
+- Nermina
