@@ -2,3 +2,5 @@
 
 - Marina
 - Nino
+- Merzija
+- Boris
